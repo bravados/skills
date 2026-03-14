@@ -1,0 +1,4 @@
+version: 1
+display_name: "XING Repo Bootstrap"
+short_description: "Bootstrap an existing repo with Codex agentic coding files, standards, and cross-links."
+default_prompt: "Set up Codex agentic coding files in this repository following XING recommended practices, then guide review and commit."

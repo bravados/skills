@@ -1,0 +1,16 @@
+# Standards index template
+# Map standards to tags/domains for selective loading.
+# Keep descriptions short and action-oriented.
+
+standards:
+  - id: commits
+    title: Commit Structure
+    file: commits.md
+    tags: [git, commits, change-management]
+    description: Consistent commit structure and messaging.
+
+  - id: markdown
+    title: Markdown Writing
+    file: markdown.md
+    tags: [docs, markdown, style]
+    description: Consistent formatting and clarity for docs.
